@@ -15,12 +15,12 @@ Firstly, you will need to run the following command in the Terminal to clone the
 
 ## 2. Open the HTML files in your web browser.
 
-## 4. Usage
+## 3. Usage
 
 1) Read the information about different types of fruits.
 2) Discover the health benefits of various fruits.
 
-## 5. Contributing
+## 4. Contributing
 
 We welcome contributions from fellow fruit enthusiasts! If you would like to contribute to the Fruit Blog, follow these steps:
 
